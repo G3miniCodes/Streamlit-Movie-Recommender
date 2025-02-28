@@ -33,6 +33,8 @@ The *Movie Recommender* is a *Streamlit-powered* application that suggests top 1
 4. *Run the application*  
    bash
    streamlit run app.py
+
+   get the data from kaggle from tmdb movies dataset
      
 
 ## 📌 *How It Works*  
